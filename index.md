@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+Hi!
+My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Mars, Jovian Moons and Exoplanets. Besides researching and coding, I also love writing blogs, papermodeling and sharing random unproductive memes.
 
-You can use the [editor on GitHub](https://github.com/jovian-explorer/jovian-explorer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mars-orbiter/keshav-aggarwal/main/image.svg" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Gitlab](https://img.shields.io/badge/-Gitlab-330c83?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/jovian-explorer)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-aggarwal/)
+[![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/jovian_explorer/)
+[![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
+[![YouTube](https://img.shields.io/badge/-YouTube-330c83?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2-J-uMMSk-r69C-kBw-haA)
 
-### Markdown
+&nbsp;You can read my blogs on :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Misconceptions in Cosmology](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
-```markdown
-Syntax highlighted code block
+[Absolutely Bonkers Plan to give mars an artificial magnetosphere](https://sites.google.com/view/sarcblogs/blog-2)
 
-# Header 1
-## Header 2
-### Header 3
+&nbsp;
 
-- Bulleted
-- List
+- 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
+- 🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
+- 🛰️ Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
+- 📡 Working on exoplanetary atmospheres and JWST. 
+- 🪐 Looking to work on anything related to planetary sciences.
+- :cake: for you!!
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h3 align="left">Languages and Tools:
+<p align="center">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
 
-### Jekyll Themes
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a> 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jovian-explorer/jovian-explorer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 
-### Support or Contact
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+
+<a href="[Eureka!](https://eurekadocs.readthedocs.io/en/latest/index.html)" target="_blank" rel="noreferrer">
+<img src="https://eurekadocs.readthedocs.io/en/latest/_images/Eureka_logo.png" alt="git" width="50" height="40"/>
+</a>
+
+<a href="[Juliet](https://juliet.readthedocs.io/en/latest/)" target="_blank" rel="noreferrer">
+<img src="https://juliet.readthedocs.io/en/latest/_images/juliet.png" alt="git" width="50" height="40"/>
+</a>
+
+<a href="[GitLab](https://gitlab.com/jovian-explorer)" target="_blank" rel="noreferrer">
+<img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="[Kaggle](https://www.kaggle.com/)" target="_blank" rel="noreferrer">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="git" width="40" height="40"/>
+</a>
+
+<a href="[Tensorflow](https://www.tensorflow.org/)" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/jovian-explorer/jovian-explorer/main/Tensorflow.png" alt="git" width="40" height="40"/>
+</a>
+
+<a href="[pytorch](https://pytorch.org/)" target="_blank" rel="noreferrer">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="git" width="40" height="40"/>
+</a>
+
+</p>
+</h3>
+  
+<p align="center">
+  <a href="https://github.com/jovian-explorer">
+  <img src="https://github-readme-stats.vercel.app/api?username=jovian-explorer&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff00&count_private=true&theme=gotham&card_width=250"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovian-explorer&layout=compact&hide_title=1&card_width=250&bg_color=ffffff00&theme=gotham&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/jovian-explorer/jovian-explorer.svg" />
+</p>
