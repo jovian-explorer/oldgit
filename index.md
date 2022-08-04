@@ -4,6 +4,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mars-orbiter/keshav-aggarwal/main/image.svg" />
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-330c83?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/jovian-explorer)
+[![GitHub](https://img.shields.io/badge/-GitHub-330c83?style=flat&logo=GitHub&logoColor=white)](https://github.com/jovian-explorer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-aggarwal/)
 [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/jovian_explorer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
@@ -27,7 +28,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 
 <h3 align="left">Languages and Tools:
-
+<p align="center">
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -81,13 +82,15 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="git" width="40" height="40"/>
 </a>
 
+</p>
 </h3>
   
-<a href="https://github.com/jovian-explorer">
+<p align="center">
+  <a href="https://github.com/jovian-explorer">
   <img src="https://github-readme-stats.vercel.app/api?username=jovian-explorer&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff00&count_private=true&theme=gotham&card_width=250"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovian-explorer&layout=compact&hide_title=1&card_width=250&bg_color=ffffff00&theme=gotham&hide_border=true"/>
-
+</p>
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/jovian-explorer/jovian-explorer.svg" />
