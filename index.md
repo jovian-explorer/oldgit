@@ -23,7 +23,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 - 🛰️ Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
 - 📡 Working on exoplanetary atmospheres and JWST. 
 - 🪐 Looking to work on anything related to planetary sciences.
-- :cake: for you!!
+- 🍰 for you!!
 
 
 
