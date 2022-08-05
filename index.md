@@ -54,8 +54,8 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </a>
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<a href="[Seaborn](https://seaborn.pydata.org/)" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn" width="40" height="40"/>
 </a>
 
 <a href="[Eureka!](https://eurekadocs.readthedocs.io/en/latest/index.html)" target="_blank" rel="noreferrer">
