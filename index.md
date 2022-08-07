@@ -28,6 +28,8 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 🪐 Looking to work on anything related to planetary sciences.
 
+📄 [Academic CV](https://docs.google.com/document/d/1wdySC-Epn9qtFMD826HSnPHXntgIUBnz/edit?usp=sharing&ouid=113466474516518713777&rtpof=true&sd=true)
+
 🍰 for you!!
 
 
@@ -100,5 +102,3 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/jovian-explorer/jovian-explorer.svg" />
 </p>
-
-[Academic CV](https://docs.google.com/document/d/1wdySC-Epn9qtFMD826HSnPHXntgIUBnz/edit?usp=sharing&ouid=113466474516518713777&rtpof=true&sd=true)
