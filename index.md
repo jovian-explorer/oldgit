@@ -10,13 +10,15 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 [![YouTube](https://img.shields.io/badge/-YouTube-330c83?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2-J-uMMSk-r69C-kBw-haA)
 
-&nbsp;You can read my blogs on :
+&nbsp;
+### You can read my blogs on:
 
 [Misconceptions in Cosmology](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
 [Absolutely Bonkers Plan to give mars an artificial magnetosphere](https://sites.google.com/view/sarcblogs/blog-2)
 
 &nbsp;
+### About me:
 
 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
 
@@ -32,7 +34,9 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 🍰 for you!!
 
+### Checkout my latest works: :bookmark_tabs:
 
+- [Identification of carbon dioxide in an exoplanet atmosphere (Nature)](https://arxiv.org/abs/2208.11692)
 
 <h3 align="left">Languages and Tools:
 <p align="center">
