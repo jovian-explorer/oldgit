@@ -34,7 +34,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 🍰 for you!!
 
-### Checkout my latest works: :bookmark_tabs:
+### Checkout my latest works:
 
 - [Identification of carbon dioxide in an exoplanet atmosphere (Nature)](https://doi.org/10.1038/s41586-022-05269-w)
 - [Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM (Nature)](https://www.nature.com/articles/s41586-022-05677-y)
