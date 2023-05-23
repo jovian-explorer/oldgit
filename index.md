@@ -36,7 +36,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 ### Checkout my latest works: :bookmark_tabs:
 
-- [ResearchGate](https://https://www.researchgate.net/profile/Keshav-Aggarwal-4)
+- [ResearchGate](https://www.researchgate.net/profile/Keshav-Aggarwal-4)
 - [Google Scholar](https://www.nature.com/articles/s41586-022-05677-y)
 - [ORC-ID](https://scholar.google.com/citations?user=KO8MtmEAAAAJ&hl=en)
 
