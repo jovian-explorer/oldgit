@@ -4,13 +4,14 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mars-orbiter/keshav-aggarwal/main/image.svg" />
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-330c83?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/jovian-explorer)
-[![GitHub](https://img.shields.io/badge/-GitHub-330c83?style=flat&logo=GitHub&logoColor=white)](https://github.com/jovian-explorer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-aggarwal/)
 [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/jovian_explorer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 [![YouTube](https://img.shields.io/badge/-YouTube-330c83?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2-J-uMMSk-r69C-kBw-haA)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://jovian-explorer.medium.com/)
 
 &nbsp;
+
 ### You can read my blogs on:
 
 [Misconceptions in Cosmology](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
@@ -20,23 +21,16 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 &nbsp;
 ### About me:
 
-🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
-
-🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
-
-🛰️ Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
-
-📡 Working on exoplanetary atmospheres and JWST as a part of the ERS program (#1366). 
-
-🪐 Looking to work on anything related to planetary sciences.
-
-📃 [Academic CV](https://docs.google.com/document/d/1PLpGtNgrAaCs4rOrsfORkw9LmYHnUriczSkzJldzOLg/edit?usp=sharing)
-
-🍰 for you!!
+- 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
+- 🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
+- 🛰 Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
+- 📡 Working on exoplanetary atmospheres and JWST as a part of the ERS program ([#1366](https://www.stsci.edu/jwst/science-execution/approved-programs/dd-ers/program-1366)).
+- 🪐 Looking to work on anything related to planetary sciences.
+- 🍰 for you!!
 
 ### Checkout my latest works: :bookmark_tabs:
 
-- [ResearchGate](https://www.researchgate.net/profile/Keshav-Aggarwal-4)
+- [ResearchGate](https://https://www.researchgate.net/profile/Keshav-Aggarwal-4)
 - [Google Scholar](https://www.nature.com/articles/s41586-022-05677-y)
 - [ORC-ID](https://scholar.google.com/citations?user=KO8MtmEAAAAJ&hl=en)
 
@@ -67,7 +61,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </a>
 
-<a href="[Seaborn](https://seaborn.pydata.org/)" target="_blank" rel="noreferrer">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn" width="40" height="40"/>
 </a>
 
@@ -93,6 +87,10 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 <a href="[pytorch](https://pytorch.org/)" target="_blank" rel="noreferrer">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="git" width="40" height="40"/>
+</a>
+
+<a href="[petitRADTRANS](https://petitradtrans.readthedocs.io/en/latest/index.html)" target="_blank" rel="noreferrer">
+<img src="https://petitradtrans.readthedocs.io/en/latest/_static/petitlogo.png" alt="git" width="55" height="40"/>
 </a>
 
 </p>
